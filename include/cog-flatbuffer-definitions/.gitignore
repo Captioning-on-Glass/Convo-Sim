@@ -1,0 +1,4 @@
+**/__pycache__
+*.h
+../app/src/main/java/edu/gatech/cog/ipglasses/cog/
+../app/src/main/java/edu/gatech/cog/ipglasses/cog
